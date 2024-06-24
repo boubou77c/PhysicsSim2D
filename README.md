@@ -1,5 +1,5 @@
 
-# PhysiqueSim2D 
+# PhysiqueSim2D 🌆
 
 It is a Physique 2D engine made with Python. 🐍
 
@@ -21,14 +21,14 @@ I used __Pyqt5__
 
 
 
-## Screenshots
+## Screenshot 📷
 
 My application look like : 
 
 ![App Screenshot](app.png)
 
 
-## Information
+## ❗ Information ❓
 
 My project will be update frequently.
 
