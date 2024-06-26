@@ -1,7 +1,7 @@
 
 # PhysicsSim2D 🌆
 
-It is a Physique 2D engine made with Python. 🐍
+It is a Physics 2D engine made with Python. 🐍
 
 Don't forget to install the __requirements.txt__ 📃
 
