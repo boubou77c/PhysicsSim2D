@@ -1,5 +1,5 @@
 
-# PhysiqueSim2D 🌆
+# PhysicsSim2D 🌆
 
 It is a Physique 2D engine made with Python. 🐍
 
