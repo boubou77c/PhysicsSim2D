@@ -30,7 +30,6 @@ My application look like :
 
 ## ❗ Information ❓
 
-My project will be update frequently.
 
 I know, it contains many error and it isn't perfect.
 
